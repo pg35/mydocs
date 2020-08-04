@@ -62,7 +62,7 @@ Woocommerce Quote Inquiry & Management is frontend quote inquiry and backend quo
 - Change default settings as needed. (Default settings turn cart into quote basket.)
 
 ## Settings
-![alt Woocommerce Quote Inquiry & Management plugin settings](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH-o3MbyjHv5-Yq6tMdg4_NpHdyyLsxUou2Q&usqp=CAU)
+![alt Woocommerce Quote Inquiry & Management plugin settings](https://github.com/pg35/mydocs/raw/master/docs/settings.jpg)
 
 ### Tabs
 - Registered Customers

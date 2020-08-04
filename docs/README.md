@@ -1,14 +1,3 @@
-<!-- TODO: Update with your values. -->
-# DocsifyJS Template homepage
-> A minimal quickstart template for a docs site
-
- <!-- 
-: Update repo links and change license type if not MIT. -->
-[![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license)
-
-
 ## Introduction
 Woocommerce Quote Inquiry & Management is frontend quote inquiry and backend quote managment plugin for Woocommerce. It lets shop manager receive quote inquiries from registered, guest or both type of customers for products in cart and view, update, delete inquiries, turn quote inquiry into formal quote or create new quotes in backend.
 
@@ -135,7 +124,7 @@ Disable Quote Inquiry Acknowledgement email. This email is sent to customer on q
 Disable New Quote Inquiry email. This email is sent to configured recipients (by default, Admin) on quote inquiry. This setting has precedence over Emails tabs of WC->Settings page.
 
 ### Setting Sections (of Contact Form 7 tab)
-
+![alt Woocommerce Quote Inquiry & Management plugin settings - Contact Form 7](https://raw.githubusercontent.com/pg35/mydocs/master/docs/cf7-settings.jpg)
 #### Registered Customers
 Email, First/Full Name, Last Name fields will only be (re)populated after you select a form and save changes.
 
